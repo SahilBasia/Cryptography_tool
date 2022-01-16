@@ -1,6 +1,6 @@
 # Cryptography_tool
 
-This tool has some of the most common encryption techniques, that were used in old age .
+This tool has some of the most common encryption techniques.
 
 ### How to use
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
