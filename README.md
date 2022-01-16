@@ -1,6 +1,11 @@
 # Cryptography_tool
 
-This tool has some of the most common encryption techniques.
+Encryption methods present in this tool are:-
+1) Ceasar cipher
+2) Vigenere cipher
+3) Rot 13 cipher
+4) Rot 47 cipher
+
 
 ### How to use
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
